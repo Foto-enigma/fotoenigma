@@ -1,0 +1,67 @@
+.fira-mono-regular {
+  font-family: "Fira Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #050b17;
+    background-image: url("../public/noisy-texture-100x100-o37-d80-c-050b17-t0.png");
+    background-repeat: repeat;
+    font-family: "Fira Mono";
+}
+
+.app {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.app-title {
+    color: #00bfff;
+    margin: 3px 0;
+    width: 800px;
+}
+
+.privacy-data {
+    position: relative;
+    background-color: #0a1b3a;
+    width: 800px;
+    height: calc(100vh - 6rem);
+    border: #1e90ff solid 2px;
+    box-shadow: inset 0 0 20px #1e90ff88;
+    padding: 10px;
+    border-radius: 8px;
+}
+.privacy-data-container h1 {
+    margin: 0;
+    margin-top: 24px;
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: #00bfff;
+}
+.privacy-data-container p {
+    color: #a0d8ff;
+    font-size: 16px;
+    margin: 0;
+}
+.privacy-data-container li {
+    color: #a0d8ff;
+    font-size: 16px;
+    margin: 0;
+}
+.cursor {
+  display: inline-block;
+  width: 10px;         
+  height: 30px;         
+  background-color: #00f0ff; 
+  vertical-align: bottom;     
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0; }
+}
