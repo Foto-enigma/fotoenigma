@@ -1,0 +1,194 @@
+{
+  "privacy": {
+    "controller": {
+      "title": "Data Controller",
+      "description": "The entity responsible for the processing of personal data in FotoEnigma is:",
+      "nameLabel": "Name",
+      "name": "Yadier de Vera",
+      "emailLabel": "Contact email",
+      "email": "fotoenigma.soporte@gmail.com"
+    },
+    "audience": {
+      "title": "Target audience",
+      "line1": "FotoEnigma is not intended for children.",
+      "line2": "The game is designed exclusively for users aged 13 years or older."
+    },
+    "collection": {
+      "title": "Information we collect",
+      "description": "The application may automatically collect certain information to improve gameplay, performance, and user experience. This data may include:",
+      "items": [
+        "Game progress and completed levels",
+        "Gameplay statistics and session activity",
+        "Total playtime",
+        "Device information (model, operating system, language)",
+        "Advertising identifiers",
+        "Information related to in-app purchases"
+      ],
+      "footer": "This information does not directly identify individual users."
+    },
+    "thirdParties": {
+      "title": "Third-party services",
+      "service": "Unity Analytics",
+      "description": "We use Unity Analytics to:",
+      "items": [
+        "Understand player behavior",
+        "Identify the most played levels",
+        "Improve game balance, performance, and content"
+      ],
+      "footer": "Unity may collect anonymous usage data in accordance with its own privacy policy."
+    },
+    "admob": {
+      "title": "Google AdMob",
+      "description": "The application uses Google AdMob to display advertisements. AdMob may collect:",
+      "items": [
+        "Advertising identifiers",
+        "Device and technical information",
+        "Ad interaction and engagement data"
+      ],
+      "moreInfo": "More information about Google’s privacy practices:",
+      "url": "https://policies.google.com/privacy"
+    },
+    "purchases": {
+      "title": "In-app purchases",
+      "description": "FotoEnigma offers in-app purchases through Unity In-App Purchasing.",
+      "items": [
+        "No payment or credit card data is collected or stored by the developer",
+        "All transactions are securely processed by Google Play"
+      ]
+    },
+    "sharing": {
+      "title": "Sharing feature – Native Share",
+      "description": "The game includes a sharing feature that uses the device’s native sharing system.",
+      "items": [
+        "The feature is activated only by the user",
+        "No personal data is collected when using this feature"
+      ]
+    },
+    "ai": {
+      "title": "AI-generated images",
+      "description": "Images used in FotoEnigma are generated using Artificial Intelligence technologies. These images:",
+      "items": [
+        "Do not depict real people",
+        "Are used only for entertainment and gameplay purposes",
+        "Are part of the original content of the game"
+      ]
+    },
+    "deletion": {
+      "title": "Data deletion",
+      "description": "Users may request the deletion of their data by:",
+      "items": [
+        "Using the data deletion option available in the game settings",
+        "Contacting us via email"
+      ],
+      "email": "fotoenigma.soporte@gmail.com",
+      "footer": "All requests will be handled within a reasonable timeframe."
+    },
+    "security": {
+      "title": "Data security",
+      "description": "Appropriate technical and organizational measures are applied to protect the collected information against unauthorized access, loss, or misuse."
+    },
+    "changes": {
+      "title": "Changes to this policy",
+      "description": "This Privacy Policy may be updated from time to time. Any changes will be published on this page."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "For any questions regarding this Privacy Policy, please contact:",
+      "email": "fotoenigma.soporte@gmail.com"
+    }
+  },
+  
+  "terms": {
+    "general": {
+      "title": "General information",
+      "line1": "These",
+      "highlight1": "Terms and Conditions",
+      "line2": "govern the use of the mobile game FotoEnigma.",
+      "developer": "Developer:",
+      "developerName": "Yadier de Vera",
+      "email": "Contact email:",
+      "emailAddress": "fotoenigma.soporte@gmail.com",
+      "agreement": "By downloading or using the game, you agree to these terms."
+    },
+    "usage": {
+      "title": "Usage requirements",
+      "description": "FotoEnigma is designed for users aged",
+      "highlight": "13 and over",
+      "items": [
+        "Users must use the game legally and responsibly",
+        "If you do not agree with these terms, do not use the app"
+      ]
+    },
+    "use": {
+      "title": "Use of the game",
+      "line1": "FotoEnigma is provided for",
+      "highlight": "entertainment purposes only",
+      "line2": "Users agree not to:",
+      "items": [
+        "Use the game for illegal purposes",
+        "Modify or exploit the game without authorization",
+        "Interfere with the normal operation of the app"
+      ]
+    },
+    "content": {
+      "title": "Game content",
+      "line1": "The game includes images, texts, designs and gameplay mechanics.",
+      "line2": "Images used in",
+      "highlight": "FotoEnigma",
+      "line3": "are generated using Artificial Intelligence and are part of the original game content."
+    },
+    "property": {
+      "title": "Intellectual property",
+      "line1": "All rights to the game, including its name, design, content, mechanics and AI-generated images, belong to",
+      "highlight": "Yadier de Vera",
+      "line2": "Unauthorized reproduction or distribution is strictly prohibited."
+    },
+    "ads": {
+      "title": "Advertising",
+      "line1": "The game displays ads through third-party services such as",
+      "highlight": "Google AdMob",
+      "line2": "The developer does not directly control the content of these advertisements."
+    },
+    "purchases": {
+      "title": "In-app purchases",
+      "line1": "FotoEnigma offers in-app purchases through",
+      "highlight": "Unity In-App Purchasing",
+      "items": [
+        "Purchases are processed by Google Play",
+        "Prices may vary by country",
+        "Refunds are subject to Google Play policies",
+        "No payment data is stored by the developer"
+      ]
+    },
+    "sharing": {
+      "title": "Sharing features",
+      "line1": "The game includes a",
+      "highlight": "native sharing feature",
+      "line2": "The developer is not responsible for how users share game content."
+    },
+    "liability": {
+      "title": "Limitation of liability",
+      "line1": "The game is provided",
+      "highlight": "“as is”",
+      "line2": "The developer is not responsible for any damages arising from the use of the game."
+    },
+    "modifications": {
+      "title": "Modifications",
+      "line1": "The developer reserves the right to modify or discontinue",
+      "highlight": "FotoEnigma",
+      "line2": "at any time."
+    },
+    "changes": {
+      "title": "Changes to terms",
+      "line1": "These Terms and Conditions may be updated at any time.",
+      "line2": "Changes take effect upon publication."
+    },
+    "contact": {
+      "title": "Contact",
+      "line1": "For questions regarding these Terms, contact:",
+      "highlight": "fotoenigma.soporte@gmail.com"
+    }
+  }
+
+}
+
