@@ -38,23 +38,19 @@ export default function App() {
       </div>
 
       <div className="first-column">
-        <div>
           <h1 className="app-title">
             Privacy Policy
             <span className="cursor"></span>
           </h1>
           <Privacy />
-        </div>
       </div>
 
       <div className="second-column">
-        <div>
           <h1 className="app-title">
             Terms & Conditions
             <span className="cursor"></span>
           </h1>
           <Terms />
-        </div>
       </div>
     </div>
   )

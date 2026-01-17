@@ -10,6 +10,7 @@ body {
     background-image: url("../public/noisy-texture-100x100-o43-d100-c-FFF8F2-t0.png");
     background-repeat: repeat;
     font-family: "Fira Mono";
+    overflow-x: hidden;
 }
 
 .app {
@@ -162,8 +163,9 @@ body {
     }
 
     .privacy-data {
-        max-width: 100%;
         max-height: none;
+        max-width: 90%;
+
     }
 
     .lang-buttons {
